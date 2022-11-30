@@ -84,7 +84,7 @@ plt.show()
 
 
     
-![png](README_files/README_10_0.png)
+![png](README_files/README_10_0.jpg)
     
 
 
@@ -145,7 +145,7 @@ plt.show()  # Another right skewed column
 
 
     
-![png](README_files/README_16_0.png)
+![png](README_files/README_16_0.jpg)
     
 
 
@@ -157,7 +157,7 @@ plt.show()  # Very useful graph. Clearly seeing the correlation.
 
 
     
-![png](README_files/README_17_0.png)
+![png](README_files/README_17_0.jpg)
     
 
 
@@ -169,7 +169,7 @@ plt.show()  # We can clearly see that we have some outliers to handle
 
 
     
-![png](README_files/README_18_0.png)
+![png](README_files/README_18_0.jpg)
     
 
 
@@ -209,7 +209,7 @@ plt.show()  # It seems that distribution is as it should be.
 
 
     
-![png](README_files/README_22_0.png)
+![png](README_files/README_22_0.jpg)
     
 
 
@@ -383,7 +383,7 @@ number_of_clusters(X)  # Deciding on cluster number
 
 
     
-![png](README_files/README_30_0.png)
+![png](README_files/README_30_0.jpg)
     
 
 
@@ -438,7 +438,7 @@ eps_elbow_dbscan(X)
 
 
     
-![png](README_files/README_35_0.png)
+![png](README_files/README_35_0.jpg)
     
 
 
@@ -495,7 +495,7 @@ plt.show()
 
 
     
-![png](README_files/README_39_0.png)
+![png](README_files/README_39_0.jpg)
     
 
 
@@ -585,14 +585,8 @@ plt.show()
 
 
     
-![png](README_files/README_47_0.png)
+![png](README_files/README_47_0.jpg)
     
 
 
 ### Thanks for reading.
-
-
-
-```python
-
-```
